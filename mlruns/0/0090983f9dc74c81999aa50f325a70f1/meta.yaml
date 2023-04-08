@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/usmanr/workspace/LanguageDetection/mlruns/0/0090983f9dc74c81999aa50f325a70f1/artifacts
+end_time: 1680925024574
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0090983f9dc74c81999aa50f325a70f1
+run_name: righteous-smelt-414
+run_uuid: 0090983f9dc74c81999aa50f325a70f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680925019635
+status: 4
+tags: []
+user_id: usmanr

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/usmanr/workspace/LanguageDetection/mlruns/0/ae97d8ef5bb54c78bcde9d9085169f65/artifacts
+end_time: 1680925395071
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae97d8ef5bb54c78bcde9d9085169f65
+run_name: indecisive-mare-592
+run_uuid: ae97d8ef5bb54c78bcde9d9085169f65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680925309090
+status: 3
+tags: []
+user_id: usmanr

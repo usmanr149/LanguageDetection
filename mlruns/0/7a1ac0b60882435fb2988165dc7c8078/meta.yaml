@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/usmanr/workspace/LanguageDetection/mlruns/0/7a1ac0b60882435fb2988165dc7c8078/artifacts
+end_time: 1680924989127
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7a1ac0b60882435fb2988165dc7c8078
+run_name: powerful-hound-457
+run_uuid: 7a1ac0b60882435fb2988165dc7c8078
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680924984157
+status: 4
+tags: []
+user_id: usmanr

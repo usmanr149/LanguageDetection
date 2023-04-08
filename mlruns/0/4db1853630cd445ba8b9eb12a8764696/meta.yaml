@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/usmanr/workspace/LanguageDetection/mlruns/0/4db1853630cd445ba8b9eb12a8764696/artifacts
+end_time: 1680925112243
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4db1853630cd445ba8b9eb12a8764696
+run_name: enchanting-skink-819
+run_uuid: 4db1853630cd445ba8b9eb12a8764696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680925107526
+status: 4
+tags: []
+user_id: usmanr
